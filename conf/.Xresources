@@ -37,3 +37,8 @@ dwm.cyan:       c06
 dwm.orange:     c_orange
 dwm.accent1:    c_accent1
 dwm.accent2:    c_accent2
+
+st.font:        JetBrainsMono Nerd Font:style:medium:pixelsize=20
+st.borderpx:    14
+st.alpha:       0.8
+
